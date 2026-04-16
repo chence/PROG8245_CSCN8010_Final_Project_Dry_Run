@@ -1,0 +1,11 @@
+train:
+  data_path: data/raw/medical_intent_dataset.csv
+  model_name: baseline_nb
+  model_out: models/baseline_nb.joblib
+  split_out: data/processed
+
+evaluate:
+  model_path: models/baseline_nb.joblib
+  test_path: data/processed/test.csv
+  metrics_out: documentation/evaluation_metrics.json
+  figure_out: documentation/confusion_matrix.png

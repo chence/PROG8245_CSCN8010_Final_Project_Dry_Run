@@ -1,0 +1,28 @@
+stages:
+  train:
+    cmd: python -m src.train --data-path ${train.data_path} --model-name ${train.model_name} --model-out ${train.model_out} --split-out ${train.split_out}
+    deps:
+      - src/train.py
+      - src/data_processing.py
+      - ${train.data_path}
+    params:
+      - train
+    outs:
+      - ${train.model_out}
+      - data/processed/train.csv
+      - data/processed/test.csv
+      - models/baseline_nb.metadata.json
+
+  evaluate:
+    cmd: python -m src.evaluate --model-path ${evaluate.model_path} --test-path ${evaluate.test_path} --metrics-out ${evaluate.metrics_out} --figure-out ${evaluate.figure_out}
+    deps:
+      - src/evaluate.py
+      - src/data_processing.py
+      - ${evaluate.model_path}
+      - ${evaluate.test_path}
+    params:
+      - evaluate
+    metrics:
+      - ${evaluate.metrics_out}
+    outs:
+      - ${evaluate.figure_out}
