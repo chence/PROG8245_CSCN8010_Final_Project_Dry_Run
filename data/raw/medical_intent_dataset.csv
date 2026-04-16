@@ -1,0 +1,599 @@
+text,label
+Could you help me: My voice is hoarse and my throat hurts this morning?,Symptom Inquiry
+What self care steps help with mild fever this morning,Self-Care Advice
+When should respiratory symptoms be checked by a doctor since yesterday?,Seek Medical Help
+My cough started yesterday and now I feel tired,Symptom Inquiry
+I need advice because what helps with congestion and runny nose this morning?,Self-Care Advice
+"Please help, what self care steps help with mild fever for two days?",Self-Care Advice
+"Please help, i have a sore throat and a mild fever for two days?",Symptom Inquiry
+I need advice because do i need medical help if my breathing feels harder since yesterday?,Seek Medical Help
+"Please help, my cough started yesterday and now I feel tired",Symptom Inquiry
+"Please help, can I take fever medicine before sleeping since yesterday?",Medication Question
+"For the last two days, i feel congestion in my nose and chest for two days",Symptom Inquiry
+Can you tell me if i have cold symptoms and a persistent cough for two days?,Symptom Inquiry
+"For the last two days, my voice is hoarse and my throat hurts since yesterday",Symptom Inquiry
+Is it time to see a doctor for a persistent cough,Seek Medical Help
+"Please help, could you help me: Should I see a doctor if I have shortness of breath since yesterday?",Seek Medical Help
+I want to know if what should I drink if I have a sore throat and cough since yesterday,Self-Care Advice
+I want to know if could you help me: My throat feels dry and I have a runny nose and I am worried?,Symptom Inquiry
+What are some home remedies for cough and fever right now?,Self-Care Advice
+Can you tell me if what helps with congestion and runny nose right now?,Self-Care Advice
+Can you tell me if my cough started yesterday and now i feel tired right now?,Symptom Inquiry
+"Please help, i have a sore throat and a mild fever since yesterday?",Symptom Inquiry
+Can you tell me if is it safe to take lozenges for throat pain for two days,Medication Question
+I need advice because could you help me: When is a fever serious enough to get medical help?,Seek Medical Help
+"For the last two days, is it time to see a doctor for a persistent cough this morning?",Seek Medical Help
+is it safe to take lozenges for throat pain right now?,Medication Question
+"Please help, is acetaminophen okay for mild flu symptoms for two days",Medication Question
+Could you help me: I have a low fever and a lot of mucus since yesterday?,Symptom Inquiry
+i woke up with a sore throat and light fever?,Symptom Inquiry
+I want to know if do i need professional care if i cannot breathe well?,Seek Medical Help
+I want to know if could you help me: Can I use common cold tablets for sneezing and cough?,Medication Question
+Can you tell me if is it time to see a doctor for a persistent cough since yesterday?,Seek Medical Help
+"For the last two days, could you help me: What should I do for a sore throat this morning?",Self-Care Advice
+"For the last two days, my cough started yesterday and now I feel tired this morning?",Symptom Inquiry
+Can you tell me if could you help me: What can I do for sneezing and a blocked nose right now?,Self-Care Advice
+Can you tell me if how do I take care of a cold without going to a clinic right now,Self-Care Advice
+I need advice because should I see a doctor for my fever and cough for two days?,Seek Medical Help
+"For the last two days, i woke up with a sore throat and light fever for two days?",Symptom Inquiry
+Can you tell me if should i see a doctor if i have shortness of breath?,Seek Medical Help
+"For the last two days, what over the counter medicine helps with flu symptoms for two days",Medication Question
+Can you tell me if how should i rest if i feel like i have the flu and I am worried?,Self-Care Advice
+"For the last two days, could you help me: Is it safe to take lozenges for throat pain right now?",Medication Question
+"Please help, my throat feels dry and I have a runny nose right now?",Symptom Inquiry
+Can you tell me if could you help me: When should respiratory symptoms be checked by a doctor this morning?,Seek Medical Help
+"For the last two days, when should respiratory symptoms be checked by a doctor and I am worried",Seek Medical Help
+"Please help, i keep coughing at night and my nose is blocked and I am worried?",Symptom Inquiry
+Can you tell me if what helps with congestion and runny nose this morning?,Self-Care Advice
+Should I see a doctor if I have shortness of breath,Seek Medical Help
+"For the last two days, my voice is hoarse and my throat hurts for two days",Symptom Inquiry
+Could you help me: I feel congestion in my nose and chest this morning?,Symptom Inquiry
+"For the last two days, when should respiratory symptoms be checked by a doctor this morning?",Seek Medical Help
+Can you tell me if could you help me: How do I recover from a mild respiratory infection and I am worried?,Self-Care Advice
+"For the last two days, how do i recover from a mild respiratory infection this morning?",Self-Care Advice
+"Please help, could you help me: I have a stuffy nose and a headache with mild fever since yesterday?",Symptom Inquiry
+Could you help me: Do I need professional care if I cannot breathe well?,Seek Medical Help
+"For the last two days, is it time to see a doctor for a persistent cough right now?",Seek Medical Help
+I want to know if could you help me: Can I combine cold medicine with pain reliever this morning?,Medication Question
+I need advice because what are some home remedies for cough and fever?,Self-Care Advice
+"Please help, what should i do for a sore throat this morning?",Self-Care Advice
+I want to know if i woke up with a sore throat and light fever since yesterday,Symptom Inquiry
+"Please help, how do I take care of a cold without going to a clinic and I am worried?",Self-Care Advice
+I have a low fever and a lot of mucus and I am worried,Symptom Inquiry
+I want to know if could you help me: How can I relieve a mild cough at home right now?,Self-Care Advice
+"For the last two days, could you help me: Can I use cough syrup for a dry cough right now?",Medication Question
+I want to know if could you help me: When is a fever serious enough to get medical help and I am worried?,Seek Medical Help
+"For the last two days, could you help me: Should I get checked if my cough is getting worse?",Seek Medical Help
+"For the last two days, could you help me: I have a low fever and a lot of mucus and I am worried?",Symptom Inquiry
+I need advice because could you help me: Do I need professional care if I cannot breathe well since yesterday?,Seek Medical Help
+I need advice because could you help me: Should I see a doctor for my fever and cough?,Seek Medical Help
+"Please help, could you help me: My cough started yesterday and now I feel tired this morning?",Symptom Inquiry
+I need advice because do I need professional care if I cannot breathe well this morning,Seek Medical Help
+Can you tell me if could you help me: Do I need professional care if I cannot breathe well and I am worried?,Seek Medical Help
+I need advice because i have a sore throat and a mild fever since yesterday,Symptom Inquiry
+is nasal spray okay for congestion and I am worried?,Medication Question
+I need advice because is acetaminophen okay for mild flu symptoms for two days?,Medication Question
+"Please help, can I use common cold tablets for sneezing and cough",Medication Question
+Should I worry if I feel weak and my cough is severe,Seek Medical Help
+"For the last two days, can i take ibuprofen for fever and sore throat this morning?",Medication Question
+"Please help, what should I drink if I have a sore throat and cough right now?",Self-Care Advice
+Can you tell me if do I need professional care if I cannot breathe well this morning,Seek Medical Help
+Can you tell me if can I use cough syrup for a dry cough for two days,Medication Question
+"For the last two days, can i use common cold tablets for sneezing and cough and I am worried?",Medication Question
+can i use over the counter medicine for a blocked nose for two days?,Medication Question
+Can you tell me if can I use common cold tablets for sneezing and cough and I am worried?,Medication Question
+"For the last two days, can I combine cold medicine with pain reliever since yesterday?",Medication Question
+I have a low fever and a lot of mucus for two days?,Symptom Inquiry
+"Please help, i have been sneezing and coughing for two days and I am worried?",Symptom Inquiry
+I want to know if what should I do for a sore throat since yesterday?,Self-Care Advice
+Could you help me: How can I sleep better when I keep coughing for two days?,Self-Care Advice
+"For the last two days, is it safe to take lozenges for throat pain since yesterday",Medication Question
+"Please help, what are some home remedies for cough and fever since yesterday?",Self-Care Advice
+"For the last two days, what should I drink if I have a sore throat and cough",Self-Care Advice
+Can you tell me if could you help me: Should I worry if I feel weak and my cough is severe this morning?,Seek Medical Help
+I want to know if i feel congestion in my nose and chest since yesterday?,Symptom Inquiry
+I want to know if could you help me: How can I ease throat pain and nasal congestion this morning?,Self-Care Advice
+I want to know if what can I do for sneezing and a blocked nose right now,Self-Care Advice
+I want to know if what self care steps help with mild fever?,Self-Care Advice
+What should I drink if I have a sore throat and cough for two days?,Self-Care Advice
+I have a sore throat and a mild fever right now,Symptom Inquiry
+I need advice because can I take ibuprofen for fever and sore throat?,Medication Question
+"Please help, could you help me: My cough started yesterday and now I feel tired right now?",Symptom Inquiry
+I have a stuffy nose and a headache with mild fever,Symptom Inquiry
+I want to know if what are some home remedies for cough and fever for two days?,Self-Care Advice
+"Please help, should i worry if i feel weak and my cough is severe for two days?",Seek Medical Help
+I want to know if can i use cough syrup for a dry cough for two days?,Medication Question
+I want to know if my cough started yesterday and now I feel tired,Symptom Inquiry
+What medicine helps with congestion and fever,Medication Question
+I need advice because could you help me: I woke up with a sore throat and light fever?,Symptom Inquiry
+"Please help, what self care steps help with mild fever since yesterday?",Self-Care Advice
+Can you tell me if could you help me: How should I rest if I feel like I have the flu this morning?,Self-Care Advice
+I need advice because could you help me: Should I go to urgent care for fever and chest pain for two days?,Seek Medical Help
+Can you tell me if how do I take care of a cold without going to a clinic and I am worried?,Self-Care Advice
+Can you tell me if what medicine helps with congestion and fever right now?,Medication Question
+Can you tell me if can I take ibuprofen for fever and sore throat?,Medication Question
+can i combine cold medicine with pain reliever for two days?,Medication Question
+"For the last two days, could you help me: Is it safe to take lozenges for throat pain since yesterday?",Medication Question
+Can you tell me if could you help me: What medication can help a mild cough?,Medication Question
+I need advice because could you help me: Can I use common cold tablets for sneezing and cough and I am worried?,Medication Question
+"For the last two days, i have mild breathing discomfort when I cough?",Symptom Inquiry
+I want to know if should I get checked if my cough is getting worse this morning,Seek Medical Help
+"Please help, what over the counter medicine helps with flu symptoms right now?",Medication Question
+Can you tell me if i have mild breathing discomfort when I cough since yesterday?,Symptom Inquiry
+I want to know if could you help me: I have a sore throat and a mild fever for two days?,Symptom Inquiry
+"For the last two days, is it safe to take lozenges for throat pain this morning?",Medication Question
+I want to know if should i see a doctor if i have shortness of breath?,Seek Medical Help
+"Please help, what helps with congestion and runny nose since yesterday?",Self-Care Advice
+I want to know if i woke up with a sore throat and light fever for two days?,Symptom Inquiry
+I want to know if do I need professional care if I cannot breathe well this morning?,Seek Medical Help
+"Please help, what medicine helps with congestion and fever for two days",Medication Question
+should i go to urgent care for fever and chest pain this morning?,Seek Medical Help
+What over the counter medicine helps with flu symptoms for two days,Medication Question
+"Please help, could you help me: My cough started yesterday and now I feel tired?",Symptom Inquiry
+Can you tell me if could you help me: Do I need medical help if my breathing feels harder and I am worried?,Seek Medical Help
+I need advice because how can i relieve a mild cough at home since yesterday?,Self-Care Advice
+"For the last two days, could you help me: I have mild breathing discomfort when I cough and I am worried?",Symptom Inquiry
+I want to know if should I see a doctor for my fever and cough since yesterday,Seek Medical Help
+How do I take care of a cold without going to a clinic right now,Self-Care Advice
+I need advice because i have a low fever and a lot of mucus since yesterday?,Symptom Inquiry
+"Please help, could you help me: I have a stuffy nose and a headache with mild fever right now?",Symptom Inquiry
+I need advice because could you help me: When is a fever serious enough to get medical help right now?,Seek Medical Help
+"Please help, could you help me: I have a low fever and a lot of mucus this morning?",Symptom Inquiry
+I need advice because could you help me: I keep coughing at night and my nose is blocked?,Symptom Inquiry
+I want to know if could you help me: What are some home remedies for cough and fever since yesterday?,Self-Care Advice
+I want to know if could you help me: What should I do for a sore throat for two days?,Self-Care Advice
+My cough started yesterday and now I feel tired right now,Symptom Inquiry
+should i get checked if my cough is getting worse since yesterday?,Seek Medical Help
+"Please help, could you help me: I have cold symptoms and a persistent cough and I am worried?",Symptom Inquiry
+Can you tell me if can I use over the counter medicine for a blocked nose since yesterday,Medication Question
+"Please help, can i take fever medicine before sleeping and I am worried?",Medication Question
+Can you tell me if my throat feels dry and i have a runny nose for two days?,Symptom Inquiry
+I have a sore throat and a mild fever,Symptom Inquiry
+Can you tell me if is it time to see a doctor for a persistent cough this morning?,Seek Medical Help
+Can you tell me if when should respiratory symptoms be checked by a doctor right now?,Seek Medical Help
+"For the last two days, what medicine helps with congestion and fever since yesterday?",Medication Question
+"Please help, can I use cough syrup for a dry cough for two days",Medication Question
+Do I need professional care if I cannot breathe well,Seek Medical Help
+I need advice because how do i recover from a mild respiratory infection and I am worried?,Self-Care Advice
+Can you tell me if i keep coughing at night and my nose is blocked and I am worried?,Symptom Inquiry
+"Please help, could you help me: What over the counter medicine helps with flu symptoms for two days?",Medication Question
+"Please help, i have cold symptoms and a persistent cough for two days?",Symptom Inquiry
+my cough started yesterday and now i feel tired since yesterday?,Symptom Inquiry
+"For the last two days, could you help me: Is it safe to take lozenges for throat pain and I am worried?",Medication Question
+"For the last two days, could you help me: What are some home remedies for cough and fever since yesterday?",Self-Care Advice
+I need advice because i keep coughing at night and my nose is blocked since yesterday?,Symptom Inquiry
+"For the last two days, should I go to urgent care for fever and chest pain for two days",Seek Medical Help
+I want to know if could you help me: Is acetaminophen okay for mild flu symptoms this morning?,Medication Question
+I need advice because i have mild breathing discomfort when i cough this morning?,Symptom Inquiry
+"Please help, can I take ibuprofen for fever and sore throat and I am worried",Medication Question
+Can you tell me if how should i rest if i feel like i have the flu this morning?,Self-Care Advice
+I want to know if should I worry if I feel weak and my cough is severe for two days?,Seek Medical Help
+I need advice because do i need urgent care for chest tightness and cough this morning?,Seek Medical Help
+how do i recover from a mild respiratory infection this morning?,Self-Care Advice
+"For the last two days, what self care steps help with mild fever right now?",Self-Care Advice
+when is a fever serious enough to get medical help right now?,Seek Medical Help
+Can I take fever medicine before sleeping,Medication Question
+I want to know if could you help me: How can I relieve a mild cough at home and I am worried?,Self-Care Advice
+I need advice because i feel congestion in my nose and chest since yesterday?,Symptom Inquiry
+I want to know if how can I ease throat pain and nasal congestion right now,Self-Care Advice
+Can you tell me if i have been sneezing and coughing for two days right now,Symptom Inquiry
+I want to know if i have a stuffy nose and a headache with mild fever right now?,Symptom Inquiry
+How should I rest if I feel like I have the flu,Self-Care Advice
+"Please help, my voice is hoarse and my throat hurts",Symptom Inquiry
+"For the last two days, could you help me: How should I rest if I feel like I have the flu since yesterday?",Self-Care Advice
+"Please help, could you help me: Is it time to see a doctor for a persistent cough since yesterday?",Seek Medical Help
+"For the last two days, when should i go to a clinic for a sore throat for two days?",Seek Medical Help
+I need advice because could you help me: Is it time to see a doctor for a persistent cough this morning?,Seek Medical Help
+can i use over the counter medicine for a blocked nose?,Medication Question
+Could you help me: Do I need medical help if my breathing feels harder?,Seek Medical Help
+When should I go to a clinic for a sore throat right now,Seek Medical Help
+Can you tell me if what medication can help a mild cough for two days,Medication Question
+I want to know if how should i rest if i feel like i have the flu for two days?,Self-Care Advice
+"Please help, when should i go to a clinic for a sore throat and I am worried?",Seek Medical Help
+Can you tell me if do i need medical help if my breathing feels harder this morning?,Seek Medical Help
+"For the last two days, i have a low fever and a lot of mucus for two days?",Symptom Inquiry
+I want to know if could you help me: What should I drink if I have a sore throat and cough right now?,Self-Care Advice
+I need advice because can I take fever medicine before sleeping and I am worried,Medication Question
+I want to know if could you help me: What self care steps help with mild fever for two days?,Self-Care Advice
+I need advice because could you help me: Should I see a doctor if I have shortness of breath and I am worried?,Seek Medical Help
+I need advice because what medicine helps with congestion and fever and I am worried?,Medication Question
+Do I need urgent care for chest tightness and cough since yesterday,Seek Medical Help
+I need advice because i have mild breathing discomfort when i cough right now?,Symptom Inquiry
+Can you tell me if i have cold symptoms and a persistent cough this morning?,Symptom Inquiry
+Can you tell me if should I worry if I feel weak and my cough is severe?,Seek Medical Help
+Do I need medical help if my breathing feels harder right now,Seek Medical Help
+"For the last two days, could you help me: What helps with congestion and runny nose since yesterday?",Self-Care Advice
+What should I drink if I have a sore throat and cough,Self-Care Advice
+I want to know if could you help me: How can I ease throat pain and nasal congestion since yesterday?,Self-Care Advice
+How do I recover from a mild respiratory infection and I am worried?,Self-Care Advice
+Can you tell me if how can i ease throat pain and nasal congestion right now?,Self-Care Advice
+I need advice because how do i recover from a mild respiratory infection right now?,Self-Care Advice
+"Please help, what over the counter medicine helps with flu symptoms?",Medication Question
+Can you tell me if is it safe to take lozenges for throat pain?,Medication Question
+I want to know if do i need professional care if i cannot breathe well this morning?,Seek Medical Help
+Should I see a doctor for my fever and cough and I am worried?,Seek Medical Help
+I want to know if my voice is hoarse and my throat hurts since yesterday?,Symptom Inquiry
+"For the last two days, what are some home remedies for cough and fever right now?",Self-Care Advice
+I have mild breathing discomfort when I cough,Symptom Inquiry
+"Please help, could you help me: Can I combine cold medicine with pain reliever right now?",Medication Question
+"Please help, could you help me: I have a sore throat and a mild fever right now?",Symptom Inquiry
+"Please help, should I see a doctor if I have shortness of breath for two days",Seek Medical Help
+I keep coughing at night and my nose is blocked and I am worried,Symptom Inquiry
+I want to know if how can I relieve a mild cough at home right now?,Self-Care Advice
+Should I see a doctor for my fever and cough,Seek Medical Help
+"Please help, i feel congestion in my nose and chest for two days?",Symptom Inquiry
+I need advice because how can I ease throat pain and nasal congestion and I am worried,Self-Care Advice
+Can you tell me if can I use cough syrup for a dry cough this morning,Medication Question
+I want to know if what over the counter medicine helps with flu symptoms since yesterday?,Medication Question
+Can you tell me if is acetaminophen okay for mild flu symptoms and I am worried,Medication Question
+"For the last two days, can i take ibuprofen for fever and sore throat right now?",Medication Question
+"For the last two days, i have been sneezing and coughing for two days this morning",Symptom Inquiry
+I need advice because could you help me: Should I see a doctor if I have shortness of breath?,Seek Medical Help
+My throat feels dry and I have a runny nose,Symptom Inquiry
+what over the counter medicine helps with flu symptoms right now?,Medication Question
+Can you tell me if how can I sleep better when I keep coughing since yesterday?,Self-Care Advice
+Could you help me: What medicine helps with congestion and fever since yesterday?,Medication Question
+I need advice because how can I ease throat pain and nasal congestion right now,Self-Care Advice
+"Please help, i have been sneezing and coughing for two days since yesterday?",Symptom Inquiry
+I want to know if could you help me: Is nasal spray okay for congestion and I am worried?,Medication Question
+I want to know if could you help me: What can I do for sneezing and a blocked nose?,Self-Care Advice
+Should I go to urgent care for fever and chest pain,Seek Medical Help
+What self care steps help with mild fever,Self-Care Advice
+I need advice because could you help me: Can I use over the counter medicine for a blocked nose?,Medication Question
+Can you tell me if can I use over the counter medicine for a blocked nose,Medication Question
+is nasal spray okay for congestion right now?,Medication Question
+What should I do for a sore throat,Self-Care Advice
+"For the last two days, i have cold symptoms and a persistent cough this morning",Symptom Inquiry
+"Please help, could you help me: Should I go to urgent care for fever and chest pain since yesterday?",Seek Medical Help
+I need advice because can i use common cold tablets for sneezing and cough since yesterday?,Medication Question
+"For the last two days, what over the counter medicine helps with flu symptoms and I am worried?",Medication Question
+"For the last two days, how can i relieve a mild cough at home?",Self-Care Advice
+"For the last two days, my throat feels dry and I have a runny nose for two days?",Symptom Inquiry
+"For the last two days, could you help me: My voice is hoarse and my throat hurts this morning?",Symptom Inquiry
+"Please help, i keep coughing at night and my nose is blocked for two days?",Symptom Inquiry
+"For the last two days, how can I relieve a mild cough at home for two days",Self-Care Advice
+I want to know if can I take fever medicine before sleeping right now,Medication Question
+I need advice because could you help me: I have a low fever and a lot of mucus since yesterday?,Symptom Inquiry
+I need advice because i feel congestion in my nose and chest this morning?,Symptom Inquiry
+Can you tell me if could you help me: Is acetaminophen okay for mild flu symptoms?,Medication Question
+"For the last two days, could you help me: How can I sleep better when I keep coughing since yesterday?",Self-Care Advice
+"For the last two days, i keep coughing at night and my nose is blocked this morning?",Symptom Inquiry
+Can you tell me if could you help me: How can I ease throat pain and nasal congestion for two days?,Self-Care Advice
+Can you tell me if what can I do for sneezing and a blocked nose since yesterday?,Self-Care Advice
+"Please help, can I take ibuprofen for fever and sore throat since yesterday",Medication Question
+I want to know if could you help me: When should respiratory symptoms be checked by a doctor for two days?,Seek Medical Help
+How do I take care of a cold without going to a clinic,Self-Care Advice
+can i take fever medicine before sleeping and I am worried?,Medication Question
+I need advice because when is a fever serious enough to get medical help this morning?,Seek Medical Help
+I want to know if how should I rest if I feel like I have the flu since yesterday,Self-Care Advice
+I have a stuffy nose and a headache with mild fever right now?,Symptom Inquiry
+"For the last two days, could you help me: What helps with congestion and runny nose and I am worried?",Self-Care Advice
+Can you tell me if can I use common cold tablets for sneezing and cough right now?,Medication Question
+"Please help, do I need urgent care for chest tightness and cough this morning?",Seek Medical Help
+"For the last two days, can I take ibuprofen for fever and sore throat since yesterday",Medication Question
+"Please help, i have a sore throat and a mild fever this morning?",Symptom Inquiry
+"For the last two days, i have been sneezing and coughing for two days right now?",Symptom Inquiry
+I need advice because is it safe to take lozenges for throat pain right now,Medication Question
+I need advice because what medication can help a mild cough for two days?,Medication Question
+"For the last two days, should i worry if i feel weak and my cough is severe for two days?",Seek Medical Help
+Could you help me: I keep coughing at night and my nose is blocked this morning?,Symptom Inquiry
+"For the last two days, i have been sneezing and coughing for two days and I am worried",Symptom Inquiry
+"For the last two days, should I go to urgent care for fever and chest pain and I am worried?",Seek Medical Help
+I want to know if could you help me: When should I go to a clinic for a sore throat and I am worried?,Seek Medical Help
+"For the last two days, i have a sore throat and a mild fever?",Symptom Inquiry
+I need advice because can i combine cold medicine with pain reliever this morning?,Medication Question
+What over the counter medicine helps with flu symptoms,Medication Question
+I want to know if can I combine cold medicine with pain reliever and I am worried,Medication Question
+Can I take ibuprofen for fever and sore throat,Medication Question
+How can I sleep better when I keep coughing and I am worried,Self-Care Advice
+"For the last two days, my throat feels dry and i have a runny nose and I am worried?",Symptom Inquiry
+Can you tell me if is nasal spray okay for congestion?,Medication Question
+"Please help, could you help me: What can I do for sneezing and a blocked nose for two days?",Self-Care Advice
+"For the last two days, i have been sneezing and coughing for two days for two days?",Symptom Inquiry
+I want to know if could you help me: What should I drink if I have a sore throat and cough since yesterday?,Self-Care Advice
+"Please help, could you help me: My throat feels dry and I have a runny nose for two days?",Symptom Inquiry
+"Please help, could you help me: What should I do for a sore throat since yesterday?",Self-Care Advice
+I need advice because what should I drink if I have a sore throat and cough since yesterday,Self-Care Advice
+I want to know if when should respiratory symptoms be checked by a doctor?,Seek Medical Help
+I need advice because how can i relieve a mild cough at home for two days?,Self-Care Advice
+"For the last two days, should i get checked if my cough is getting worse for two days?",Seek Medical Help
+I want to know if can I use common cold tablets for sneezing and cough right now,Medication Question
+Can you tell me if could you help me: How do I take care of a cold without going to a clinic right now?,Self-Care Advice
+Do I need urgent care for chest tightness and cough and I am worried,Seek Medical Help
+"For the last two days, could you help me: Should I go to urgent care for fever and chest pain for two days?",Seek Medical Help
+I want to know if do I need urgent care for chest tightness and cough right now,Seek Medical Help
+I need advice because i have a low fever and a lot of mucus this morning?,Symptom Inquiry
+"For the last two days, could you help me: Is acetaminophen okay for mild flu symptoms for two days?",Medication Question
+Can you tell me if how can i relieve a mild cough at home this morning?,Self-Care Advice
+should i see a doctor for my fever and cough since yesterday?,Seek Medical Help
+Can you tell me if could you help me: Do I need urgent care for chest tightness and cough for two days?,Seek Medical Help
+"For the last two days, how do I take care of a cold without going to a clinic and I am worried?",Self-Care Advice
+"For the last two days, i have mild breathing discomfort when I cough for two days?",Symptom Inquiry
+What over the counter medicine helps with flu symptoms this morning?,Medication Question
+"For the last two days, can I use cough syrup for a dry cough this morning",Medication Question
+I need advice because when should respiratory symptoms be checked by a doctor and I am worried,Seek Medical Help
+"For the last two days, can i use cough syrup for a dry cough right now?",Medication Question
+"Please help, my voice is hoarse and my throat hurts?",Symptom Inquiry
+"Please help, should I worry if I feel weak and my cough is severe?",Seek Medical Help
+I need advice because i have a low fever and a lot of mucus this morning,Symptom Inquiry
+I need advice because is nasal spray okay for congestion right now?,Medication Question
+I want to know if should I go to urgent care for fever and chest pain this morning,Seek Medical Help
+I have cold symptoms and a persistent cough right now,Symptom Inquiry
+"For the last two days, could you help me: What medication can help a mild cough for two days?",Medication Question
+I need advice because can I take fever medicine before sleeping for two days,Medication Question
+Could you help me: When should I go to a clinic for a sore throat?,Seek Medical Help
+"For the last two days, what are some home remedies for cough and fever for two days",Self-Care Advice
+Can you tell me if can I use cough syrup for a dry cough,Medication Question
+Can you tell me if do i need medical help if my breathing feels harder and I am worried?,Seek Medical Help
+"For the last two days, could you help me: What medicine helps with congestion and fever right now?",Medication Question
+I want to know if could you help me: Can I take fever medicine before sleeping since yesterday?,Medication Question
+i have a sore throat and a mild fever since yesterday?,Symptom Inquiry
+Can I use common cold tablets for sneezing and cough,Medication Question
+Can you tell me if could you help me: My throat feels dry and I have a runny nose and I am worried?,Symptom Inquiry
+I need advice because could you help me: I woke up with a sore throat and light fever and I am worried?,Symptom Inquiry
+Could you help me: What can I do for sneezing and a blocked nose right now?,Self-Care Advice
+I want to know if can I take ibuprofen for fever and sore throat and I am worried?,Medication Question
+What medication can help a mild cough,Medication Question
+Could you help me: I feel congestion in my nose and chest?,Symptom Inquiry
+I need advice because my voice is hoarse and my throat hurts this morning?,Symptom Inquiry
+Is it safe to take lozenges for throat pain,Medication Question
+Can you tell me if can I combine cold medicine with pain reliever since yesterday?,Medication Question
+I want to know if could you help me: What can I do for sneezing and a blocked nose since yesterday?,Self-Care Advice
+I want to know if should I go to urgent care for fever and chest pain for two days,Seek Medical Help
+I need advice because how can I ease throat pain and nasal congestion right now?,Self-Care Advice
+"Please help, i have mild breathing discomfort when I cough since yesterday?",Symptom Inquiry
+I need advice because how should i rest if i feel like i have the flu?,Self-Care Advice
+should i see a doctor if i have shortness of breath since yesterday?,Seek Medical Help
+Could you help me: When is a fever serious enough to get medical help for two days?,Seek Medical Help
+I have been sneezing and coughing for two days,Symptom Inquiry
+"For the last two days, when should I go to a clinic for a sore throat and I am worried",Seek Medical Help
+"For the last two days, could you help me: Can I take ibuprofen for fever and sore throat this morning?",Medication Question
+How do I take care of a cold without going to a clinic right now?,Self-Care Advice
+Can I combine cold medicine with pain reliever for two days?,Medication Question
+I want to know if i have mild breathing discomfort when I cough for two days,Symptom Inquiry
+"Please help, do I need medical help if my breathing feels harder for two days",Seek Medical Help
+I want to know if could you help me: When is a fever serious enough to get medical help?,Seek Medical Help
+I want to know if i have mild breathing discomfort when I cough since yesterday,Symptom Inquiry
+Can you tell me if is nasal spray okay for congestion,Medication Question
+Can you tell me if what medicine helps with congestion and fever and I am worried?,Medication Question
+"Please help, is acetaminophen okay for mild flu symptoms right now",Medication Question
+Can you tell me if what medication can help a mild cough this morning?,Medication Question
+I want to know if i have cold symptoms and a persistent cough for two days?,Symptom Inquiry
+Could you help me: Do I need urgent care for chest tightness and cough since yesterday?,Seek Medical Help
+I have a stuffy nose and a headache with mild fever since yesterday,Symptom Inquiry
+I need advice because i have mild breathing discomfort when I cough?,Symptom Inquiry
+How do I recover from a mild respiratory infection,Self-Care Advice
+Can I use over the counter medicine for a blocked nose,Medication Question
+Can you tell me if i have a stuffy nose and a headache with mild fever right now?,Symptom Inquiry
+"For the last two days, is acetaminophen okay for mild flu symptoms for two days",Medication Question
+"Please help, what self care steps help with mild fever?",Self-Care Advice
+Could you help me: How can I ease throat pain and nasal congestion this morning?,Self-Care Advice
+I need advice because should I worry if I feel weak and my cough is severe this morning,Seek Medical Help
+I want to know if i have cold symptoms and a persistent cough?,Symptom Inquiry
+I want to know if what helps with congestion and runny nose for two days,Self-Care Advice
+What are some home remedies for cough and fever,Self-Care Advice
+Is acetaminophen okay for mild flu symptoms since yesterday,Medication Question
+How do I recover from a mild respiratory infection this morning?,Self-Care Advice
+I need advice because should I see a doctor if I have shortness of breath?,Seek Medical Help
+I need advice because can I take fever medicine before sleeping for two days?,Medication Question
+I want to know if when should I go to a clinic for a sore throat right now,Seek Medical Help
+Can I take fever medicine before sleeping for two days?,Medication Question
+Can you tell me if when is a fever serious enough to get medical help,Seek Medical Help
+I need advice because is it time to see a doctor for a persistent cough right now?,Seek Medical Help
+I need advice because i have cold symptoms and a persistent cough and I am worried?,Symptom Inquiry
+Is nasal spray okay for congestion,Medication Question
+"Please help, could you help me: How can I sleep better when I keep coughing this morning?",Self-Care Advice
+I want to know if what medicine helps with congestion and fever right now?,Medication Question
+Can you tell me if i feel congestion in my nose and chest?,Symptom Inquiry
+Can you tell me if how can i sleep better when i keep coughing right now?,Self-Care Advice
+I want to know if i woke up with a sore throat and light fever?,Symptom Inquiry
+I want to know if should I worry if I feel weak and my cough is severe since yesterday?,Seek Medical Help
+"For the last two days, do I need medical help if my breathing feels harder and I am worried",Seek Medical Help
+"Please help, what over the counter medicine helps with flu symptoms this morning?",Medication Question
+"Please help, should I worry if I feel weak and my cough is severe and I am worried",Seek Medical Help
+What medication can help a mild cough right now?,Medication Question
+"Please help, when should i go to a clinic for a sore throat this morning?",Seek Medical Help
+Should I worry if I feel weak and my cough is severe this morning?,Seek Medical Help
+I need advice because could you help me: Can I use over the counter medicine for a blocked nose and I am worried?,Medication Question
+"For the last two days, should I go to urgent care for fever and chest pain and I am worried",Seek Medical Help
+"Please help, how can I ease throat pain and nasal congestion since yesterday",Self-Care Advice
+Do I need urgent care for chest tightness and cough,Seek Medical Help
+Can you tell me if is it time to see a doctor for a persistent cough for two days,Seek Medical Help
+"Please help, is nasal spray okay for congestion for two days?",Medication Question
+I need advice because my voice is hoarse and my throat hurts,Symptom Inquiry
+What helps with congestion and runny nose,Self-Care Advice
+I need advice because is nasal spray okay for congestion?,Medication Question
+"Please help, could you help me: Should I go to urgent care for fever and chest pain this morning?",Seek Medical Help
+"For the last two days, when should i go to a clinic for a sore throat?",Seek Medical Help
+"For the last two days, could you help me: Is it safe to take lozenges for throat pain?",Medication Question
+"For the last two days, is acetaminophen okay for mild flu symptoms since yesterday?",Medication Question
+Can you tell me if i have mild breathing discomfort when I cough?,Symptom Inquiry
+should i get checked if my cough is getting worse this morning?,Seek Medical Help
+"For the last two days, what should I drink if I have a sore throat and cough this morning",Self-Care Advice
+Can I take ibuprofen for fever and sore throat right now?,Medication Question
+"For the last two days, can I use common cold tablets for sneezing and cough right now",Medication Question
+what should i do for a sore throat?,Self-Care Advice
+Can you tell me if is acetaminophen okay for mild flu symptoms?,Medication Question
+I want to know if could you help me: I woke up with a sore throat and light fever?,Symptom Inquiry
+"For the last two days, can i take fever medicine before sleeping right now?",Medication Question
+Could you help me: How do I take care of a cold without going to a clinic this morning?,Self-Care Advice
+Should I get checked if my cough is getting worse,Seek Medical Help
+I want to know if what can i do for sneezing and a blocked nose since yesterday?,Self-Care Advice
+what should i drink if i have a sore throat and cough right now?,Self-Care Advice
+I have cold symptoms and a persistent cough,Symptom Inquiry
+I have cold symptoms and a persistent cough this morning,Symptom Inquiry
+Can you tell me if do I need medical help if my breathing feels harder right now?,Seek Medical Help
+I want to know if could you help me: Can I use over the counter medicine for a blocked nose and I am worried?,Medication Question
+I want to know if can i use over the counter medicine for a blocked nose right now?,Medication Question
+Can you tell me if how can I sleep better when I keep coughing this morning,Self-Care Advice
+I want to know if when should respiratory symptoms be checked by a doctor for two days?,Seek Medical Help
+"Please help, when is a fever serious enough to get medical help right now",Seek Medical Help
+Can you tell me if what medicine helps with congestion and fever,Medication Question
+"For the last two days, i have cold symptoms and a persistent cough?",Symptom Inquiry
+"Please help, is it time to see a doctor for a persistent cough since yesterday?",Seek Medical Help
+I need advice because what self care steps help with mild fever for two days,Self-Care Advice
+I want to know if do I need professional care if I cannot breathe well this morning,Seek Medical Help
+Could you help me: I have been sneezing and coughing for two days?,Symptom Inquiry
+My voice is hoarse and my throat hurts this morning?,Symptom Inquiry
+Can you tell me if do I need urgent care for chest tightness and cough right now?,Seek Medical Help
+Could you help me: What over the counter medicine helps with flu symptoms and I am worried?,Medication Question
+"For the last two days, i woke up with a sore throat and light fever and I am worried?",Symptom Inquiry
+Can you tell me if should I get checked if my cough is getting worse this morning?,Seek Medical Help
+"Please help, i have been sneezing and coughing for two days and I am worried",Symptom Inquiry
+Can you tell me if how can I relieve a mild cough at home this morning,Self-Care Advice
+"Please help, i have a low fever and a lot of mucus and I am worried?",Symptom Inquiry
+what self care steps help with mild fever since yesterday?,Self-Care Advice
+"For the last two days, my cough started yesterday and now I feel tired right now",Symptom Inquiry
+"Please help, how do I recover from a mild respiratory infection for two days",Self-Care Advice
+I want to know if what helps with congestion and runny nose this morning,Self-Care Advice
+Can I use cough syrup for a dry cough,Medication Question
+"Please help, what should I do for a sore throat?",Self-Care Advice
+I keep coughing at night and my nose is blocked,Symptom Inquiry
+"Please help, my throat feels dry and i have a runny nose and I am worried?",Symptom Inquiry
+I need advice because my throat feels dry and I have a runny nose and I am worried?,Symptom Inquiry
+I want to know if how can I relieve a mild cough at home?,Self-Care Advice
+I have mild breathing discomfort when I cough and I am worried,Symptom Inquiry
+"Please help, what should I drink if I have a sore throat and cough since yesterday",Self-Care Advice
+Do I need medical help if my breathing feels harder,Seek Medical Help
+I need advice because should I get checked if my cough is getting worse and I am worried,Seek Medical Help
+Can you tell me if how can I sleep better when I keep coughing for two days,Self-Care Advice
+I need advice because should I worry if I feel weak and my cough is severe since yesterday?,Seek Medical Help
+I have a stuffy nose and a headache with mild fever and I am worried,Symptom Inquiry
+I feel congestion in my nose and chest,Symptom Inquiry
+"For the last two days, could you help me: How do I recover from a mild respiratory infection for two days?",Self-Care Advice
+I want to know if do i need urgent care for chest tightness and cough and I am worried?,Seek Medical Help
+Can I combine cold medicine with pain reliever,Medication Question
+"For the last two days, should i see a doctor if i have shortness of breath and I am worried?",Seek Medical Help
+Can you tell me if how can I relieve a mild cough at home and I am worried?,Self-Care Advice
+Can you tell me if should I see a doctor for my fever and cough this morning,Seek Medical Help
+When is a fever serious enough to get medical help,Seek Medical Help
+I need advice because could you help me: I have been sneezing and coughing for two days right now?,Symptom Inquiry
+I want to know if do I need professional care if I cannot breathe well right now,Seek Medical Help
+"Please help, should I see a doctor if I have shortness of breath for two days?",Seek Medical Help
+I want to know if what are some home remedies for cough and fever right now?,Self-Care Advice
+Can you tell me if what medication can help a mild cough for two days?,Medication Question
+I want to know if could you help me: What self care steps help with mild fever and I am worried?,Self-Care Advice
+I want to know if could you help me: Can I combine cold medicine with pain reliever for two days?,Medication Question
+I want to know if could you help me: What medication can help a mild cough since yesterday?,Medication Question
+"For the last two days, what can i do for sneezing and a blocked nose right now?",Self-Care Advice
+I need advice because how can I sleep better when I keep coughing right now,Self-Care Advice
+I need advice because i have a sore throat and a mild fever right now,Symptom Inquiry
+I need advice because what can i do for sneezing and a blocked nose this morning?,Self-Care Advice
+When should respiratory symptoms be checked by a doctor,Seek Medical Help
+I need advice because when is a fever serious enough to get medical help right now?,Seek Medical Help
+Can I use common cold tablets for sneezing and cough since yesterday,Medication Question
+I want to know if could you help me: I have a stuffy nose and a headache with mild fever right now?,Symptom Inquiry
+"Please help, could you help me: How can I sleep better when I keep coughing right now?",Self-Care Advice
+I need advice because what over the counter medicine helps with flu symptoms since yesterday?,Medication Question
+"For the last two days, could you help me: Should I worry if I feel weak and my cough is severe this morning?",Seek Medical Help
+when should respiratory symptoms be checked by a doctor for two days?,Seek Medical Help
+I want to know if could you help me: What are some home remedies for cough and fever this morning?,Self-Care Advice
+Can you tell me if could you help me: Can I combine cold medicine with pain reliever for two days?,Medication Question
+Could you help me: How can I relieve a mild cough at home this morning?,Self-Care Advice
+"Please help, i have a stuffy nose and a headache with mild fever right now",Symptom Inquiry
+How can I ease throat pain and nasal congestion right now,Self-Care Advice
+How can I sleep better when I keep coughing,Self-Care Advice
+"Please help, i feel congestion in my nose and chest this morning",Symptom Inquiry
+"For the last two days, can I take fever medicine before sleeping?",Medication Question
+I need advice because could you help me: I have been sneezing and coughing for two days for two days?,Symptom Inquiry
+"Please help, my throat feels dry and I have a runny nose",Symptom Inquiry
+"Please help, is nasal spray okay for congestion since yesterday",Medication Question
+How should I rest if I feel like I have the flu since yesterday?,Self-Care Advice
+I want to know if could you help me: Can I use cough syrup for a dry cough since yesterday?,Medication Question
+Can you tell me if how do i take care of a cold without going to a clinic this morning?,Self-Care Advice
+I need advice because i woke up with a sore throat and light fever right now?,Symptom Inquiry
+I need advice because my throat feels dry and I have a runny nose and I am worried,Symptom Inquiry
+Can you tell me if should I see a doctor if I have shortness of breath and I am worried,Seek Medical Help
+I want to know if could you help me: What should I drink if I have a sore throat and cough for two days?,Self-Care Advice
+I need advice because should i get checked if my cough is getting worse for two days?,Seek Medical Help
+Can you tell me if what can I do for sneezing and a blocked nose this morning?,Self-Care Advice
+"Please help, can I use over the counter medicine for a blocked nose and I am worried",Medication Question
+How can I ease throat pain and nasal congestion,Self-Care Advice
+I need advice because could you help me: Is nasal spray okay for congestion for two days?,Medication Question
+"For the last two days, what should i do for a sore throat this morning?",Self-Care Advice
+"Please help, what medication can help a mild cough right now?",Medication Question
+I want to know if should i get checked if my cough is getting worse?,Seek Medical Help
+"Please help, i woke up with a sore throat and light fever and I am worried?",Symptom Inquiry
+I feel congestion in my nose and chest and I am worried,Symptom Inquiry
+Could you help me: Do I need medical help if my breathing feels harder and I am worried?,Seek Medical Help
+I woke up with a sore throat and light fever,Symptom Inquiry
+"Please help, should I go to urgent care for fever and chest pain for two days?",Seek Medical Help
+I have a low fever and a lot of mucus,Symptom Inquiry
+i keep coughing at night and my nose is blocked and I am worried?,Symptom Inquiry
+Can you tell me if what should I do for a sore throat,Self-Care Advice
+"For the last two days, i have been sneezing and coughing for two days this morning?",Symptom Inquiry
+"Please help, could you help me: Should I get checked if my cough is getting worse?",Seek Medical Help
+"Please help, can i use over the counter medicine for a blocked nose and I am worried?",Medication Question
+what helps with congestion and runny nose since yesterday?,Self-Care Advice
+Can you tell me if how can I sleep better when I keep coughing right now?,Self-Care Advice
+I want to know if i feel congestion in my nose and chest right now,Symptom Inquiry
+Can you tell me if could you help me: Can I use cough syrup for a dry cough?,Medication Question
+how can i ease throat pain and nasal congestion since yesterday?,Self-Care Advice
+What can I do for sneezing and a blocked nose,Self-Care Advice
+I need advice because should I see a doctor for my fever and cough?,Seek Medical Help
+"Please help, should i see a doctor for my fever and cough this morning?",Seek Medical Help
+Can you tell me if could you help me: Is it time to see a doctor for a persistent cough for two days?,Seek Medical Help
+"For the last two days, how should I rest if I feel like I have the flu right now?",Self-Care Advice
+I need advice because could you help me: How do I take care of a cold without going to a clinic right now?,Self-Care Advice
+what should i do for a sore throat for two days?,Self-Care Advice
+I want to know if could you help me: Can I take fever medicine before sleeping?,Medication Question
+Can you tell me if could you help me: When should I go to a clinic for a sore throat right now?,Seek Medical Help
+My voice is hoarse and my throat hurts this morning,Symptom Inquiry
+I need advice because what medication can help a mild cough right now,Medication Question
+I have a sore throat and a mild fever and I am worried,Symptom Inquiry
+Can you tell me if could you help me: Do I need professional care if I cannot breathe well this morning?,Seek Medical Help
+I want to know if my cough started yesterday and now I feel tired and I am worried?,Symptom Inquiry
+I need advice because what are some home remedies for cough and fever right now?,Self-Care Advice
+"Please help, my throat feels dry and I have a runny nose this morning",Symptom Inquiry
+I need advice because do I need urgent care for chest tightness and cough?,Seek Medical Help
+"For the last two days, can i use common cold tablets for sneezing and cough right now?",Medication Question
+"Please help, should I see a doctor for my fever and cough",Seek Medical Help
+I need advice because is it safe to take lozenges for throat pain this morning?,Medication Question
+"Please help, i have a stuffy nose and a headache with mild fever this morning?",Symptom Inquiry
+I need advice because what medicine helps with congestion and fever for two days?,Medication Question
+I need advice because what medicine helps with congestion and fever?,Medication Question
+"Please help, how do i recover from a mild respiratory infection this morning?",Self-Care Advice
+I want to know if i keep coughing at night and my nose is blocked for two days,Symptom Inquiry
+"Please help, is acetaminophen okay for mild flu symptoms?",Medication Question
+"Please help, can I use over the counter medicine for a blocked nose since yesterday?",Medication Question
+"For the last two days, how should i rest if i feel like i have the flu this morning?",Self-Care Advice
+How can I relieve a mild cough at home,Self-Care Advice
+I need advice because is it time to see a doctor for a persistent cough since yesterday?,Seek Medical Help
+I need advice because when should I go to a clinic for a sore throat this morning,Seek Medical Help
+"Please help, should I go to urgent care for fever and chest pain?",Seek Medical Help
+I want to know if could you help me: Do I need urgent care for chest tightness and cough since yesterday?,Seek Medical Help
+I need advice because how do I recover from a mild respiratory infection,Self-Care Advice
+"For the last two days, when should respiratory symptoms be checked by a doctor?",Seek Medical Help
+What helps with congestion and runny nose?,Self-Care Advice
+Can you tell me if when should I go to a clinic for a sore throat for two days?,Seek Medical Help
+Can you tell me if could you help me: Do I need urgent care for chest tightness and cough this morning?,Seek Medical Help
+I need advice because i feel congestion in my nose and chest for two days,Symptom Inquiry
+When should I go to a clinic for a sore throat,Seek Medical Help
+Can you tell me if do I need professional care if I cannot breathe well,Seek Medical Help
+what can i do for sneezing and a blocked nose right now?,Self-Care Advice
+I keep coughing at night and my nose is blocked right now?,Symptom Inquiry
+Is acetaminophen okay for mild flu symptoms,Medication Question
+I need advice because should i see a doctor for my fever and cough this morning?,Seek Medical Help
+Can you tell me if what should I do for a sore throat for two days?,Self-Care Advice
+I want to know if how should i rest if i feel like i have the flu and I am worried?,Self-Care Advice
+Can you tell me if how do I take care of a cold without going to a clinic this morning?,Self-Care Advice
+"Please help, can I use over the counter medicine for a blocked nose this morning?",Medication Question
+I need advice because is nasal spray okay for congestion this morning?,Medication Question
+"Please help, should I get checked if my cough is getting worse and I am worried?",Seek Medical Help
+Could you help me: What medicine helps with congestion and fever?,Medication Question
+I want to know if could you help me: Can I take ibuprofen for fever and sore throat?,Medication Question
+"For the last two days, i woke up with a sore throat and light fever this morning",Symptom Inquiry
+Can you tell me if i have a stuffy nose and a headache with mild fever for two days,Symptom Inquiry
+I need advice because is it safe to take lozenges for throat pain and I am worried?,Medication Question
+"For the last two days, could you help me: My cough started yesterday and now I feel tired?",Symptom Inquiry
+Can you tell me if should I see a doctor for my fever and cough right now,Seek Medical Help
+I want to know if could you help me: Can I use cough syrup for a dry cough for two days?,Medication Question
+Can you tell me if could you help me: What are some home remedies for cough and fever?,Self-Care Advice
+Can you tell me if do I need medical help if my breathing feels harder and I am worried,Seek Medical Help
+I need advice because i have cold symptoms and a persistent cough for two days?,Symptom Inquiry
+I want to know if i keep coughing at night and my nose is blocked?,Symptom Inquiry
+Can you tell me if i have a low fever and a lot of mucus this morning?,Symptom Inquiry
+I need advice because could you help me: My voice is hoarse and my throat hurts this morning?,Symptom Inquiry
+Can you tell me if could you help me: How should I rest if I feel like I have the flu?,Self-Care Advice
+Can you tell me if can I use common cold tablets for sneezing and cough this morning,Medication Question
+My voice is hoarse and my throat hurts,Symptom Inquiry
