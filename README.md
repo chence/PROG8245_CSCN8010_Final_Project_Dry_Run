@@ -11,10 +11,8 @@ MediChat is a multilingual, audio/text-ready medical chatbot prototype for the P
     - Abdallah Mohamed, 9089339
 
 # GitHub Link
-https://github.com/chence/PROG8245_CSCN8010_Final_Project_Dry_Run.git
+https://github.com/chence/PROG8245_CSCN8010_Final_Project.git
 
- # Mp4 Link
-https://github.com/chence/PROG8245_CSCN8010_Final_Project_Dry_Run/blob/master/mp4/FinalProjectDryRun.mp4
 
 ## Project Goal
 The goal is to build a safe educational chatbot that can classify a user's medical question into an intent category and return an appropriate general response. The project is intentionally limited to general information only and does not provide diagnosis.
